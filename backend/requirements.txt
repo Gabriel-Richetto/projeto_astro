@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+requests
+skyfield
+numpy
+pytz
+timezonefinderL
+pyswisseph
